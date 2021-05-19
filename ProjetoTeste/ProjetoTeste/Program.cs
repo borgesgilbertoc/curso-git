@@ -9,6 +9,7 @@ namespace ProjetoTeste
             Console.WriteLine("Teste 1");
             Console.WriteLine("Teste 2");
             Console.WriteLine("Teste 3");
+            Console.WriteLine("Teste 4");
 
             Console.ReadLine();
         }
