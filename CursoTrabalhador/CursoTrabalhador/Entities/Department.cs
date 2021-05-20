@@ -8,9 +8,9 @@
         { 
         }
 
-        public Department(string Name)
+        public Department(string name)
         {
-            Name = Name;
+            Name = name;
         }
     }
 }
